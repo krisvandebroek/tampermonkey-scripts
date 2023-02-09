@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name Reduce Zoom
+// @version 1.0.0
+// @description Reduce Zoom to 90% to fit more on screen
+// @match https://trello.com/b/*
+// @match http://trello.com/b/*
+// ==/UserScript==
+
+document.body.style.zoom = "90%";
