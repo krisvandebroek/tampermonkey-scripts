@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TMetric Shortcuts
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Easy Shortcuts for TMetric
 // @author       Kris Vandebroek
 // @match        https://app.tmetric.com/
